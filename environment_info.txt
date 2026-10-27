@@ -1,0 +1,5 @@
+Python version: 3.13.9
+Python executable: /opt/anaconda3/bin/python
+Operating system: Darwin
+Operating-system release: 25.6.0
+Platform: macOS-26.6.2-arm64-arm-64bit-Mach-O
